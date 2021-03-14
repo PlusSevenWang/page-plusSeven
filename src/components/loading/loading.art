@@ -1,0 +1,8 @@
+<!-- 调用时若传入inline参数，则文字图片一行显示 -->
+<!-- 调用时若传入text参数，则文字显示为传入内容 -->
+<div class="loading {{ inline ? 'loading-inline' : '' }}">
+  <div class="loading-indicator">
+    <img src="./loading.gif" alt="loading" />
+  </div>
+  <div class="loading-text">{{ text ? text : '加载中……' }}</div>
+</div>
