@@ -1,0 +1,42 @@
+// css公共样式
+import 'styles/reset.css';
+import 'styles/base.css';
+// 主页布局样式
+import './index.css';
+
+// 公共组件
+// topbar
+import 'components/topbar/index.js';
+// main-nav
+import 'components/main-nav/index.js';
+// header
+import 'components/header-con/index.js';
+// footer-nav
+import 'components/footer-nav/index.js';
+// bottom-bar
+import 'components/bottom-bar/index.js';
+// backtotop
+import 'components/backtotop/index.js';
+// loading
+import 'components/loading/index.js';
+
+// index页面组件
+// carousel
+// import './components/carousel/index.js';
+import './components/slider/index.js';
+// menu
+import './components/menu/index.js';
+// fav-ad
+import './components/fav-ad/index.js';
+// xxsw
+import './components/xxsw/index.js';
+// jjzyx
+import './components/jjzyx/index.js';
+// ddwl
+import './components/ddwl/index.js';
+// tsddty
+import './components/tsddty/index.js';
+// zsj
+import './components/zsj/index.js';
+// gt
+import './components/gt/index.js';
