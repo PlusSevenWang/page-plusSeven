@@ -1,0 +1,34 @@
+.personal-bg {
+    width: 100%;
+    height: 149px;
+    background: url(./image/bg.png) no-repeat;
+    background-size: cover;
+}
+.personal-info {
+    width: 100%;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.personal-headshot {
+    position: relative;
+    width: 139px;
+    height: 139px;
+    margin-bottom: 24px;
+}
+.personal-headshot img {
+    position: absolute;
+    top: -21px;
+    left: -32px;
+    width: 145%;
+}
+.personal-name {
+    font-size: 20px;
+    color: #203152;
+}
+.personal-tel {
+    font-size: 14px;
+    color: #7C8698;
+}

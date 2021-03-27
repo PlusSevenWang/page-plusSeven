@@ -1,0 +1,24 @@
+<div class="main-img" id="main-img">
+    {{include '../../../../components/loading/loading.art'}}
+</div>
+<div class="main-info">
+    <div class="main-info-content" id="main-info-content">
+        {{include '../../../../components/loading/loading.art'}}
+    </div>
+</div>
+<div class="main-intro">
+    <h3>产品简介</h3>
+    <div class="main-intro-text" id="main-intro-text">
+        {{include '../../../../components/loading/loading.art'}}
+    </div>
+</div>
+<div class="main-procedure">
+    <h3>预定流程</h3>
+    <div class="main-procedure-img"></div>
+</div>
+<div class="main-refund">
+    <h3>退款流程</h3>
+    <div class="main-refund-text">
+        <p>本商品为特价商品，成功付款后视为消费，原则上不予变更、取消。特殊原因可与商家协商，按照实际损失收取费用，</p>
+    </div>
+</div>

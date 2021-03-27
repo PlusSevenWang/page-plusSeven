@@ -1,0 +1,37 @@
+.details-layout {
+    overflow-y: auto;
+    height: 100%;
+    padding-bottom: 48px;
+}
+.header-layout {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    height: 54px;
+}
+.bottom-layout {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 999;
+    background-color: #FFFFFF;
+    border-top: 1px solid #DADADA;
+}
+.main-layout {
+    width: 100%;
+    padding-bottom: 40px;
+    background-color: #FFFFFF;
+}
+.main-img .loading {
+    padding-top: 100px;
+}
+.main-info .loading {
+    padding: 30px 0;
+}
+.main-intro .loading {
+    padding: 50px 0;
+}

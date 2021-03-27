@@ -1,0 +1,9 @@
+<div class="personal-bg">
+</div>
+<div class="personal-info">
+    <div class="personal-headshot">
+        <img src="./image/portrait.png" alt="">
+    </div>
+    <p class="personal-name">王家琪</p>
+    <p class="personal-tel">18736907954</p>
+</div>

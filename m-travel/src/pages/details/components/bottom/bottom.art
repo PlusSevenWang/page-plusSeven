@@ -1,0 +1,11 @@
+<div class="bottom">
+    <div class="bottom-content">
+        <div class="bottom-left">
+            <a href="javascript:;"><span class="iconfont icon-service"></span>咨询</a>
+            <a href="javascript:;"><span class="iconfont icon-collect"></span>收藏</a>
+        </div>
+        <div class="bottom-right">
+            <a href="javascript:;">立即预订</a>
+        </div>
+    </div>
+</div>

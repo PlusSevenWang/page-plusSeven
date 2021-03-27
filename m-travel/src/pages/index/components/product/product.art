@@ -1,0 +1,95 @@
+<div class="product">
+    <h2 class="product-title">精选折扣</h2>
+    <ul class="product-list" id="product-list">
+        <li class="product-item">
+            <a href="./details.html?id=1">
+                <p class="product-pic">
+                    <img src="./images/1.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">[拒签全退][全国25城联运]北京往返格鲁吉亚+阿塞拜疆7-30天自由行（预售至20年6月底/中文接机/赠2-4晚酒店/乌鲁木齐可停留/优惠购签证/目的地旅游）</p>
+                <p class="product-price">3799元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=2">
+                <p class="product-pic">
+                    <img src="./images/2.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">[樱花季]北京直飞东京/大阪/名古屋/冲绳/札幌/福冈/仙台2-30天往返含税机票【甩尾/多团期】</p>
+                <p class="product-price">1999元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=3">
+                <p class="product-pic">
+                    <img src="./images/3.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">[樱花季]上海直飞日本大阪/名古屋/高松5-7天往返含税机票（可选宁波至名古屋套餐）</p>
+                <p class="product-price">1199元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=4">
+                <p class="product-pic">
+                    <img src="./images/4.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">[滑雪季]上海直飞北海道5-7天往返含税机票(可选北海道网红一日游)</p>
+                <p class="product-price">1599元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=5">
+                <p class="product-pic">
+                    <img src="./images/5.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">【预售至20年五一节】全国多地往返马尔代夫库拉玛提岛6-7天自由行（2沙2水混住+梦幻拖尾沙滩+性价比五星级岛屿+全岛免费WIFI+可私人定制/可升级水飞一价全包）</p>
+                <p class="product-price">10699</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=6">
+                <p class="product-pic">
+                    <img src="./images/6.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">【一价全含|拒签退团费】北京直飞德法意瑞12-14天跟团游（全国免费联运+全程三星/四星酒店+金色山口景观列车+塞纳河游船+铁力士雪山+新天鹅堡+赠送团队签证）</p>
+                <p class="product-price">10980元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=7">
+                <p class="product-pic">
+                    <img src="./images/7.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">[樱花季]北京/天津直飞东京/大阪/名古屋/福冈/广岛/北海道/冲绳往返含税机票(可代订签证、酒店)</p>
+                <p class="product-price">1980元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=8">
+                <p class="product-pic">
+                    <img src="./images/8.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">[拒签全退]北京/天津直飞日本东京/大阪/福冈/名古屋/北海道札幌/冲绳3-30天机票(可代办签证/代订酒店/可升级公务舱)</p>
+                <p class="product-price">2250元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=9">
+                <p class="product-pic">
+                    <img src="./images/9.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">北京直飞日本冲绳4-5天自由行（国航早去午回+城市/海边多酒店搭配+双人早餐/日本三年多次签证超值加购）</p>
+                <p class="product-price">2999元起</p>
+            </a>
+        </li>
+        <li class="product-item">
+            <a href="./details.html?id=10">
+                <p class="product-pic">
+                    <img src="./images/10.jpg" alt="" class="product-img">
+                </p>
+                <p class="product-name">上海/杭州/南京/宁波往返菲律宾宿务/薄荷岛/杜马盖地/锡基霍尔/长滩岛/马尼拉7天6晚</p>
+                <p class="product-price">3299元起</p>
+            </a>
+        </li>
+    </ul>
+</div>
